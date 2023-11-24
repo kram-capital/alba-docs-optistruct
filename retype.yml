@@ -1,0 +1,12 @@
+input: .
+output: .retype
+url: https://kram-capital.github.io/alba-docs-optistruct/
+branding:
+  title: Optistruct
+  label: Docs
+  logo: /assets/img/albatherium-logo-small.svg
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
