@@ -25,7 +25,7 @@ Starting
 Initial Trend
 :   Not sure what this does <!-- TODO What is this? -->
 ===
-==- BoS/CHoCH
+==- BoS/CHoCH (Click to expand)
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-2-bos-cho-mh.jpg)
 
 Mark BoS / CHoCH
@@ -77,7 +77,7 @@ Alert when fake BoS/ChoCh is confirmed
 Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
 !!!
 ===
-==- Inducements
+==- Inducements (Click to expand)
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-3-inducements.png)
 ===
 
