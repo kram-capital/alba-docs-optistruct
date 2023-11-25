@@ -7,7 +7,7 @@ Please take a look at the official Tradingview documentation if you are unsure o
 # Settings Overview
 ## Inputs Tab
 
-==- Initialisation
+=== Initialisation
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-1.png)
 
 Use Structure Mapping v2
