@@ -1,6 +1,6 @@
 # Getting Started
 !!!
-The very first thing you must do, if you haven't already is join out Discord at https://discord.gg/albatherium
+The very first thing you must do, if you haven't already is join our Discord at https://discord.gg/albatherium
 !!!
 ### Grab your license
 
