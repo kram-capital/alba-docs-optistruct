@@ -6,7 +6,17 @@ branding:
   label: Docs
   logo: /assets/img/albatherium-logo-small.svg
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Official Site
+  link: https://albatherium.com/
+- text: Twitter
+  link: https://twitter.com/albatherium
+- text: YouTube
+  link: https://www.youtube.com/channel/UCXo9C6Bwacl9I4-bRdXmJmg
+- text: Instagram
+  link: https://www.instagram.com/albatherium
+- text: Telegram
+  link: https://t.me/albatherium
+- text: Tradingview
+  link: https://www.tradingview.com/u/AlbaTherium/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
