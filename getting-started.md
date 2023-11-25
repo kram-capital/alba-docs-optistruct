@@ -2,6 +2,10 @@
 !!!
 The very first thing you must do, if you haven't already is join our Discord at https://discord.gg/albatherium
 !!!
+!!!
+You will also need the Tradingview charting platform from https://www.tradingview.com/
+!!!
+
 ### Grab your license
 
 Visit https://albatherium.com/ and grab your copy of OptiStruct. <!-- TODO Learn the process from the team -->
