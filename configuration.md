@@ -6,6 +6,8 @@ Please take a look at the official Tradingview documentation if you are unsure o
 [!ref target="blank" text="Official Docs"](https://shorturl.at/isyY6)
 ## Settings Overview
 ### Inputs Tab
+
+=== Initialisation
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-1.png)
 
 Use Structure Mapping v2
@@ -22,10 +24,8 @@ Starting
 
 Initial Trend
 :   Not sure what this does <!-- TODO What is this? -->
-
-
-
-#### BoS/CHoCH
+===
+==- BoS/CHoCH
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-2-bos-cho-mh.jpg)
 
 Mark BoS / CHoCH
@@ -72,13 +72,20 @@ Alert when BoS/ChoCh is confirmed
 Alert when fake BoS/ChoCh is confirmed
 :    Trigger an alert in Tradingview when a fake BoS is confirmed
 
-Failed Structures Bearish
-:   Colour of bearish BoS / CHoCH markings
-    
 
 !!!
 Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
 !!!
+===
+==- Inducements
+![](/assets/img/docs-optistruct-3-configuration-1-inputs-3-inducements.png)
+===
+
+#### BoS/CHoCH
+
+    
+
+
 
 
 
