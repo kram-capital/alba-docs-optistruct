@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kram-capital.github.io/alba-docs-optistruct/sitemap.xml.gz
+Sitemap: https://kram-capital.github.io/alba-docs-OptiStruct/sitemap.xml.gz
