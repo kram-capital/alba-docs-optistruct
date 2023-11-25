@@ -81,16 +81,6 @@ Triggering alerts requires an additional step that will be explained in the aler
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-3-inducements.png)
 ===
 
-#### BoS/CHoCH
-
-    
-
-
-
-
-
-#### Inducements
-
 ### Style Tab
 
 ### Visibility Tab
