@@ -25,7 +25,7 @@ Starting
 Initial Trend
 :   Not sure what this does <!-- TODO What is this? -->
 ===
-==- BoS/CHoCH (Click to expand)
+=== BoS/CHoCH (Click to expand) <!-- TODO Configure collapsed panels for production -->
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-2-bos-cho-mh.jpg)
 
 Mark BoS / CHoCH
@@ -77,8 +77,33 @@ Alert when fake BoS/ChoCh is confirmed
 Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
 !!!
 ===
-==- Inducements (Click to expand)
-![](/assets/img/docs-optistruct-3-configuration-1-inputs-3-inducements.png)
+=== Inducements (Click to expand) <!-- TODO Configure collapsed panels for production -->
+![](/assets/img/docs-optistruct-3-configuration-1-inputs-3-inducem-mh.png)
+
+Mark IDM
+:   Mark inducements on the chart
+
+Row 1
+:   In order from left to right
+    - IDM label
+    - Label text size
+    - Label text colour
+
+Row 2
+:   In order from left to right
+    - IDM line type
+    - IDM line thickness
+
+Mark live IDM
+:   Mark live IDM <!-- What does this mean? -->
+
+Alerts when market takes out IDMs
+:   Trigger an alert in Tradingview when IDM is taken
+    
+
+!!!
+Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
+!!!
 ===
 
 ### Style Tab
