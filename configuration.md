@@ -23,12 +23,12 @@ Starting
 :   Set the date and time that you would like OptiStruct to begin the mapping on the chart. This can help with performance. Leaving the default setting will map from the beginning of the chart
 
 Initial Trend
-:   Not sure what this does <!-- TODO What is this? -->
+:   This setting is useful if you have chosen a recent date in the previous option in case OptiStruct doesn't have enough data to calculate the trend 
 ===
 
 ### BoS / ChoCh
 
-==- Click to expand <!-- TODO Configure collapsed panels for production -->
+==- Click to expand 
 
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-2-bos-cho-mh.jpg)
 
@@ -78,11 +78,11 @@ Alert when fake BoS/ChoCh is confirmed
 
 
 !!!
-Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
+Triggering alerts requires an additional step that will be explained in the alerts section 
 !!!
 ===
 ### Inducements
-==- Click to expand <!-- TODO Configure collapsed panels for production -->
+==- Click to expand 
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-3-inducem-mh.png)
 
 Mark IDM
@@ -100,18 +100,18 @@ Row 2
     - IDM line thickness
 
 Mark live IDM
-:   Mark live IDM <!-- What does this mean? -->
+:   Mark new inducements in real-time
 
 Alerts when market takes out IDMs
 :   Trigger an alert in Tradingview when the market takes out an IDM
 
 !!!
-Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
+Triggering alerts requires an additional step that will be explained in the alerts section 
 !!!
 
 ===
 ### High / Low markings
-==- Click to expand <!-- TODO Configure collapsed panels for production -->
+==- Click to expand 
 
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-4-high-lo-mh.png)
 
@@ -139,7 +139,7 @@ Row 3
 
 ===
 ### High / Low sweeps
-==- Click to expand <!-- TODO Configure collapsed panels for production -->
+==- Click to expand 
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-5-high-lo-mh.png)
 
 Show H/L sweeping lines
@@ -160,12 +160,12 @@ Alerts when market sweeps out previous H/L
 :   Trigger an alert in Tradingview when the market sweeps a previous H/L
 
 !!!
-Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
+Triggering alerts requires an additional step that will be explained in the alerts section 
 !!!
 
 ===
 ### Extreme Order Blocks
-==- Click to expand <!-- TODO Configure collapsed panels for production -->
+==- Click to expand 
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-6-extreme-mh.png)
 
 Show Extreme Order Blocks
@@ -194,7 +194,7 @@ Row 2 (Bearish EOB)
 
 
 !!!
-Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
+Triggering alerts requires an additional step that will be explained in the alerts section 
 !!!
 
 
@@ -202,7 +202,7 @@ Triggering alerts requires an additional step that will be explained in the aler
 
 
 ### Decisional Order Blocks
-==- Click to expand <!-- TODO Configure collapsed panels for production -->
+==- Click to expand 
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-7-decisio-mh.png)
 
 Show Decisional Order Blocks
@@ -231,14 +231,14 @@ Row 2 (Bearish DOB)
 
 
 !!!
-Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
+Triggering alerts requires an additional step that will be explained in the alerts section 
 !!!
 
 
 ===
 
 ### Smart Money Traps
-==- Click to expand <!-- TODO Configure collapsed panels for production -->
+==- Click to expand 
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-8-smart-m-mh.png)
 
 Show Smart Money Traps
@@ -267,14 +267,14 @@ Row 2 (Bearish SMT)
 
 
 !!!
-Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
+Triggering alerts requires an additional step that will be explained in the alerts section 
 !!!
 
 
 ===
 
 ### IDMs Demands / Supplies
-==- Click to expand <!-- TODO Configure collapsed panels for production -->
+==- Click to expand 
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-9-ob-with-mh.png)
 
 IDM demand/supplies are supply and demand zones that print before an inducement has been taken
@@ -305,14 +305,14 @@ Row 2 (Bearish IDM D/S)
 
 
 !!!
-Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
+Triggering alerts requires an additional step that will be explained in the alerts section 
 !!!
 
 
 ===
 
 ### Historical Order Blocks
-==- Click to expand <!-- TODO Configure collapsed panels for production -->
+==- Click to expand 
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-9-ob-with-mh.png)
 
 Show historical order blocks
@@ -343,11 +343,11 @@ Row 2 (Bearish historical order blocks)
     - Border colour (width must be > 0)
 
 Keep the aesthetic options of historical order blocks 
-:   No idea what this is! <!-- TODO ask the team what this is -->
+:   If this is checked then visual settings above will be ignored and historical order blocks will retain the look of the standard decisional and extreme POIs
 <br />Ask the team 
 
 !!!
-Triggering alerts requires an additional step that will be explained in the alerts section <!-- TODO create link to alerts section -->
+Triggering alerts requires an additional step that will be explained in the alerts section 
 !!!
 
 
