@@ -16,7 +16,7 @@ The structure mapping concept is the foundation layer of the Trading Hub strateg
 - [x] Alert on new confirmed BoS / CHoCH
 - [x] Alert on new fake BoS / CHoCH
 - [x] Mark new inducements as they are printed
-- [x] Mark live inducements <!-- TODO What is a live IDM? -->
+- [x] Mark inducements in real-time
 - [x] Alert when an inducement is taken
 - [x] Mark confirmed highs and lows
 - [x] Highlight on confirmed highs / lows sweep
