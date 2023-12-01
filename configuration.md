@@ -355,7 +355,7 @@ Triggering alerts requires an additional step that will be explained in the aler
 
 ## Style Tab
 ![](/assets/img/docs-optistruct-3-configuration-1-inputs-11-style.png)
-The three setting within the style tab are to globally toggle the visibility of the drawings created by OptiStruct.
+The three settings within the style tab are to globally toggle the visibility of the drawings created by OptiStruct.
 
 Style settings
 :   &nbsp;
