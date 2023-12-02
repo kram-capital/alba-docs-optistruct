@@ -74,7 +74,7 @@ Alert when BoS/ChoCh is confirmed
 :   Trigger an alert in Tradingview when a BoS / ChoCh is confirmed
 
 Alert when fake BoS/ChoCh is confirmed
-:    Trigger an alert in Tradingview when a fake BoS is confirmed
+:    Trigger an alert in Tradingview when a fake BoS is confirmed 
 
 
 !!!
