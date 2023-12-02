@@ -83,10 +83,13 @@ Triggering alerts requires an additional step that will be explained in the aler
 ===
 ### Inducements
 ==- Click to expand 
-![](/assets/img/docs-optistruct-3-configuration-1-inputs-3-inducem-mh.png)
+![](/assets/img/docs-optistruct-3-configuration-1-inputs-3-inducem-mh-update.png)
 
 Mark IDM
 :   Mark inducements on the chart
+
+Use one-candle IDM
+:   Validate IDMs created by a single candle
 
 Row 1
 :   In order from left to right
