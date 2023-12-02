@@ -110,7 +110,7 @@ Alerts when market takes out IDMs
 
 !!!
 Triggering alerts requires an additional step that will be explained in the alerts section 
-!!!
+!!! 
 
 ===
 ### High / Low markings
